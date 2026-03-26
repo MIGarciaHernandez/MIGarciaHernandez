@@ -39,10 +39,6 @@ I am a researcher and professor working at the intersection of **Artificial Inte
 
 ---
 
-## Contact
-- 📍 Sweden  
-- 🏫 Universidad Complutense de Madrid
-- 🏫 Universidad Politécnica de Madrid  
 
 </td>
 
