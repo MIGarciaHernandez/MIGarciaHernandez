@@ -5,9 +5,7 @@
 
 
 
-<table>
-<tr>
-<td width="60%">
+
 
 ## About me
 PhD in Physics | AI Professor | Quantum Programming  
@@ -46,15 +44,11 @@ I am a researcher and professor working at the intersection of **Artificial Inte
 - 📍 Spain  
 - 🏫 Universidad Politécnica de Madrid  
 
-</td>
-
-<td width="40%">
 
 
 
-</td>
-</tr>
-</table>
+
+
 
 ---
 
@@ -71,8 +65,4 @@ I combine **AI + Quantum Physics** to explore the future of computation.
 
 
 
-
-<table>
-<tr>
-<td width="60%">
 
