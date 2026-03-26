@@ -34,11 +34,11 @@ I am a researcher and professor working at the intersection of **Artificial Inte
 ---
 
 ## Background
-- PhD in Physics
-- PhD in Quantum programming (on going)
-- MSc in Artificial Intelligence   
-- MSc in Physics
-- BSc in Physics
+- PhD in Physics, UPM
+- PhD in Quantum programming (on going), UCM
+- MSc in Artificial Intelligence, UCM 
+- MSc in Physics, UCM and Lund University (Sweden)
+- BSc in Physics, UCM
 
 ---
 
