@@ -50,7 +50,7 @@ I am a researcher and professor working at the intersection of **Artificial Inte
 
 <td width="40%">
 
-<img src="https://avatars.githubusercontent.com/u/1?v=4" width="250"/>
+
 
 </td>
 </tr>
