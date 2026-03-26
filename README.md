@@ -2,7 +2,7 @@
 
 
 
-# Hi there 👋
+
 
 ## About me
 PhD in Physics | AI Professor | Quantum Programming
