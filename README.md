@@ -66,7 +66,7 @@ I am currently involved in teaching and research related to:
 
 ## Institutions
 
-- Universidad Europea de Madrid
+
 - Universidad Complutense de Madrid
 - Universidad Politécnica de Madrid
 
