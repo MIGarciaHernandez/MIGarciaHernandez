@@ -17,7 +17,8 @@ I am a researcher and professor working at the intersection of **Artificial Inte
 ## Current work
 - 👩‍🏫 Professor of Artificial Intelligence  
 - 🔬 Research in Quantum Computing & AI  
-- 🎓 Second PhD in Quantum Programming  
+- 🎓 PhD in Physics
+- 🎓 PhD in Quantum Programming 
 
 ---
 
