@@ -44,7 +44,7 @@ I am a researcher and professor working at the intersection of **Artificial Inte
 
 ## Contact
 - 📍 Spain  
-- 🏫 Universidad Europea de Madrid  
+- 🏫 Universidad Politécnica de Madrid  
 
 </td>
 
