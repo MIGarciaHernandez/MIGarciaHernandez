@@ -32,7 +32,7 @@ I am a researcher and professor working at the intersection of **Artificial Inte
 ---
 
 ## Background
-- PhD in Applied Physics & Materials Engineering  
+- PhD in Physics  
 - MSc in Artificial Intelligence  
 - MSc in Aeronautical Engineering  
 - MSc in Physics  
