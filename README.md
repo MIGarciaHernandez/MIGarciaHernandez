@@ -2,21 +2,7 @@
 
 
 
----
 
-## Contact
-
-- 📍 Spain
-- 💼 Academic and research profile
-- 🔗 LinkedIn: [Add your LinkedIn here](AQUI_TU_LINK_DE_LINKEDIN)
-- 📄 CV: [Add your CV here](AQUI_TU_LINK_DE_CV)
-- 📚 Publications: [Add your publications here](AQUI_TU_LINK_DE_PUBLICACIONES)
-
----
-
-## Motto
-
-> Exploring the future of computation through AI, physics, and quantum technologies.
 
 
 
@@ -72,6 +58,13 @@ I am a researcher and professor working at the intersection of **Artificial Inte
 ## 🔗 Links
 
 - 📚 Publications: [[link to Google Scholar]](https://scholar.google.com/citations?user=HsHA784AAAAJ&hl=sv)
+
+
+  ---
+
+## Contact
+- 📍 Spain  
+- 🏫 Universidad Europea de Madrid  
 
 
 ---
