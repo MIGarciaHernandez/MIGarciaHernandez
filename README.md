@@ -5,9 +5,10 @@
 
 
 ## About me
-PhD in Physics | AI Professor | Quantum Programming
+PhD in Physics | Professor | Quantum Programming
 
 ## Current work
+- Professor of Physics
 - Professor of Artificial Intelligence
 - Research in Quantum Computing & AI
 
@@ -18,6 +19,7 @@ PhD in Physics | AI Professor | Quantum Programming
 - High Energy Physics
 
 ## Contact
-- 📍 Spain
+- 📍 Sweden
+- 🏫 Uppsala University, Sweden
 - 🏫 Universidad Complutense de Madrid
 - 🏫 Universidad Politécnica de Madrid
