@@ -36,9 +36,9 @@ I am a researcher and professor working at the intersection of **Artificial Inte
 ## Background
 - PhD in Physics
 - PhD in Quantum programming (on going)
-- MSc in Artificial Intelligence  
-- MSc in Aeronautical Engineering  
-- MSc in Physics  
+- MSc in Artificial Intelligence   
+- MSc in Physics
+- BSc in Physics
 
 ---
 
