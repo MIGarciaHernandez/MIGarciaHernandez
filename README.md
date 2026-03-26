@@ -57,9 +57,9 @@ I am a researcher and professor working at the intersection of **Artificial Inte
 ---
 
 ## 🔗 Links
-- 📄 CV: [Add your CV link here]
-- 📚 Publications: [Add your Google Scholar or papers]
-- 💼 LinkedIn: [Add your LinkedIn]
+
+- 📚 Publications: [[Add your Google Scholar or papers]](https://scholar.google.com/citations?user=HsHA784AAAAJ&hl=sv)
+
 
 ---
 
