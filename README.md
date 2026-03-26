@@ -28,7 +28,7 @@ I am a researcher and professor working at the intersection of **Artificial Inte
 - Photonic Quantum Systems  
 - High Energy Physics  
 - AI for scientific applications  
-
+- Physics of Materials
 ---
 
 ## Background
