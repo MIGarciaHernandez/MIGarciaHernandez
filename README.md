@@ -1,16 +1,23 @@
 ## Hi there 👋
 
-<!--
-**MIGarciaHernandez/MIGarciaHernandez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Hi there 👋
+
+## About me
+PhD in Physics | AI Professor | Quantum Programming
+
+## Current work
+- Professor of Artificial Intelligence
+- Research in Quantum Computing & AI
+
+## Research interests
+- Quantum Computing
+- Quantum Machine Learning
+- Photonic Quantum Systems
+- High Energy Physics
+
+## Contact
+- 📍 Spain
+- 🏫 Universidad Complutense de Madrid
+- 🏫 Universidad Politécnica de Madrid
