@@ -40,7 +40,7 @@ I am a researcher and professor working at the intersection of **Artificial Inte
 ---
 
 ## Contact
-- 📍 Spain  
+- 📍 Sweden  
 - 🏫 Universidad Complutense de Madrid
 - 🏫 Universidad Politécnica de Madrid  
 
@@ -91,11 +91,5 @@ I combine **AI + Quantum Physics** to explore the future of computation.
 
 
 
-
-
-
-## Contact
-- 📍 Sweden
-- 🏫 Uppsala University, Sweden
 - 🏫 Universidad Complutense de Madrid
 - 🏫 Universidad Politécnica de Madrid
