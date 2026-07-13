@@ -10,7 +10,7 @@
 ## About me
 PhD in Physics | AI Professor | Quantum Programming  
 
-I am a researcher and professor working at the intersection of **Artificial Intelligence and Quantum Computing**, with a strong background in physics, engineering, and advanced computational methods.
+I am a researcher and professor working at the intersection of **Artificial Intelligence and Quantum Algorithms**, with a strong background in physics, engineering, and advanced computational methods.
 
 ---
 
